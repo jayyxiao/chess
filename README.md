@@ -1,5 +1,5 @@
 # chess
-Chess Engine with ~1800 ELO. Can play against a human or against itself. The engine accepts moves in [UCI format](https://en.wikipedia.org/wiki/Universal_Chess_Interface).
+Chess Engine with ~1800 ELO. Can play against a human or against itself. The engine accepts moves in [UCI](https://en.wikipedia.org/wiki/Universal_Chess_Interface) format.
 
 To use, run 'jupyter notebook' in the terminal, then run either AgentVersusHuman or AgentVersusAgent. The engine may take several seconds in between moves.
 
